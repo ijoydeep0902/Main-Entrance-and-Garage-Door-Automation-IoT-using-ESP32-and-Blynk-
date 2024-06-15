@@ -5,11 +5,9 @@ Garage Door, enabling remote control via mobile devices. Proficient in IoT, micr
 home automation.
 
 
-
+# DEveloped By Joy
 ## important infos:
  
-                            JAI SHREE RAM
-## Developed by JOY
  (i)  adjusting the sensor distances----->find{ctrl+f} "adjust" it will lead you to the code line
  (ii) for testing the sensors S
       step-1> paste these line of codes in "loop" function 
